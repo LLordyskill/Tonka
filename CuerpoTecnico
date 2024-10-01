@@ -1,4 +1,4 @@
-namespace Tonka.Core
+namespace Tonka.Core;
 public class CuerpoTecnico
 {
     public byte IdTecnico { get; set; }
