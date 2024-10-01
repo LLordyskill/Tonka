@@ -1,4 +1,4 @@
-namespace Tonka.Core
+namespace Tonka.Core;
 public class Posicion
 {
     public byte IdPosicion { get; set; }
