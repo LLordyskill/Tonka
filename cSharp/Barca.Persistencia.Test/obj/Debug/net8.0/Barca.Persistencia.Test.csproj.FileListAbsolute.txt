@@ -1,0 +1,6 @@
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia.Test/obj/Debug/net8.0/Barca.Persistencia.Test.csproj.AssemblyReference.cache
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia.Test/obj/Debug/net8.0/Barca.Persistencia.Test.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia.Test/obj/Debug/net8.0/Barca.Persistencia.Test.AssemblyInfoInputs.cache
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia.Test/obj/Debug/net8.0/Barca.Persistencia.Test.AssemblyInfo.cs
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia.Test/obj/Debug/net8.0/Barca.Persistencia.Test.csproj.CoreCompileInputs.cache
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia.Test/obj/Debug/net8.0/Barca.Persistencia.Test.sourcelink.json

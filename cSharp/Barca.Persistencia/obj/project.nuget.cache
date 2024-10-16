@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2SYgY307losaljKve8R5bcNUTqFeKF+VMPNl/1k6w2cMH3U4vH2AY9y1OEwAnEmTp/KrPGgos6H5jC2pDDjlg==",
+  "success": true,
+  "projectFilePath": "/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/Barca.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "/home/et12alumno/.nuget/packages/dapper/2.1.44/dapper.2.1.44.nupkg.sha512"
+  ],
+  "logs": []
+}

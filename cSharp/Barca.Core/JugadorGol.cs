@@ -1,4 +1,4 @@
-namespace Tonka.Core
+namespace Tonka.Core;
 public class JugadorGol
 {
     public ushort IdJugador { get; set; }

@@ -1,4 +1,4 @@
-namespace Barca.Core.Persistencia;
+namespace Tonka.Core.Persistencia;
 public interface IListado<T>
 {
     IEnumerable<T> TraerElementos();

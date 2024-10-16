@@ -1,0 +1,5 @@
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Core/obj/Debug/net8.0/Barca.Core.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Core/obj/Debug/net8.0/Barca.Core.AssemblyInfoInputs.cache
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Core/obj/Debug/net8.0/Barca.Core.AssemblyInfo.cs
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Core/obj/Debug/net8.0/Barca.Core.csproj.CoreCompileInputs.cache
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Core/obj/Debug/net8.0/Barca.Core.sourcelink.json
