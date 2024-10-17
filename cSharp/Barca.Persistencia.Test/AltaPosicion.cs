@@ -1,15 +1,14 @@
-using Super.Core;
-using Xunit;
+using Tonka.Core;
 namespace Barca.Persistencia.Test;
 
-public class AltaPosicion
+public class AltaPosicion : TestAdo
 {
-        [Fact]
-        public void AltaPosicion()
-        {
-            var nuevaPosicion = new Posicion(0, "Delantero");
-            Ado.AltaPosicion(nuevaPosicion);
+    [Fact]
+    public void AltaPos()
+    {
+        var nuevaPosicion = new Posicion(0, "Delantero");
+        Ado.AltaPosicion(nuevaPosicion);
 
-            Assert.NotEqual(nuevaPosicion.IdPosicion); 
-        }
+        Assert.NotEqual(0, nuevaPosicion.IdPosicion);
     }
+}

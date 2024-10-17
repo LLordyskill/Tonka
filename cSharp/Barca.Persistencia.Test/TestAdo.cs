@@ -1,24 +1,18 @@
-using Barca.Core;
-using Barca.Dapper;
+using System.Data;
+using Tonka.Core;
+using MySqlConnector;
+
 namespace Barca.Persistencia.Test;
+public class TestAdo
+{
+    protected readonly IAdo Ado;
+    IDbConnection _conexion;
+    private const string _cadena = "Server=localhost;Database=5to_Barcelonatonka;user=5to_agbd;Password=Trigg3rs!";
+    public TestAdo() : this(_cadena) { }
 
-public interface TestAdo
-{
-    
-{
-    public class TestAdo
+    public TestAdo(string cadena)
     {
-        protected readonly IAdo Ado;
-        
-       
-        private const string _cadena = "Server=localhost;Database=5to_Barcelonatonka;";
-
-        public TestAdo() 
-            => Ado = new AdoDapper(_cadena);
-
-        public TestAdo(string cadena) 
-            => Ado = new AdoDapper(cadena);
+        _conexion = new MySqlConnection(_cadena);
+        Ado = new BarcaDapper(_conexion);
     }
-}
-
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Barca.Persistencia.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14b067cc199c03b80cd32b3567819186849cb568")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a091552ad09b7ed029d65bd085ee8b1298cbaf7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Barca.Persistencia.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Barca.Persistencia.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

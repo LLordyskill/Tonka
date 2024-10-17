@@ -3,3 +3,14 @@
 /mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/Barca.Persistencia.AssemblyInfo.cs
 /mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/Barca.Persistencia.csproj.CoreCompileInputs.cache
 /mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/Barca.Persistencia.sourcelink.json
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/bin/Debug/net8.0/Barca.Persistencia.deps.json
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/bin/Debug/net8.0/Barca.Persistencia.dll
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/bin/Debug/net8.0/Barca.Persistencia.pdb
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/bin/Debug/net8.0/Barca.Core.dll
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/bin/Debug/net8.0/Barca.Core.pdb
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/Barca.Persistencia.csproj.AssemblyReference.cache
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/Barca.Persistencia.csproj.CopyComplete
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/Barca.Persistencia.dll
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/refint/Barca.Persistencia.dll
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/Barca.Persistencia.pdb
+/mnt/Datos/GaboDrian/Tonka/cSharp/Barca.Persistencia/obj/Debug/net8.0/ref/Barca.Persistencia.dll

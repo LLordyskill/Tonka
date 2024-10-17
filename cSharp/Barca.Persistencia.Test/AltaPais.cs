@@ -1,15 +1,15 @@
-using Super.Core;
+using Tonka.Core;
 using Xunit;
 namespace Barca.Persistencia.Test;
 
-public class AltaPais
+public class AltaPais : TestAdo
 {
      [Fact]
-        public void AltaPais()
-        {
+        public void AltPais()
+    {
             var nuevoPais = new Pais(0, "Argentina");
-            Ado.AltaPais(nuevoPais);
+        Ado.AltaPais(nuevoPais);
 
-            Assert.NotEqual(nuevoPais.IdPais);
+            Assert.NotEqual(0,nuevoPais.IdPais);
         }
 }
